@@ -1,0 +1,21 @@
+.container {
+  margin: 30px;
+}
+.container>h3{
+  text-align: center;
+}
+#card-footer{
+  justify-content: center;
+}
+.footer {
+  background-color: #000;
+  height: 100px;
+  opacity: 0.9;
+  display: flex;
+  flex: auto;
+  justify-content: center;
+  text-align: center;
+}
+.footer>span {
+   color: #fff;
+}
